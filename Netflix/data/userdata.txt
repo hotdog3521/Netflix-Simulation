@@ -1,0 +1,78 @@
+BEGIN Taegyum
+NAME: Kim
+MOVIE:
+BEGIN QUEUE
+END QUEUE
+BEGIN RATINGS
+END RATINGS
+END
+BEGIN aaroncot
+NAME: Aaron Cote
+MOVIE: city lights
+BEGIN QUEUE
+battlefield earth
+city lights
+city lights
+END QUEUE
+BEGIN RATINGS
+4 battlefield earth
+4 the shawshank redemption
+4 the lord of the rings: the return of the king
+END RATINGS
+END
+BEGIN hotdog3521
+NAME: Taegyum Kim
+MOVIE:
+BEGIN QUEUE
+the lord of the rings: the return of the king
+city lights
+city lights
+the lord of the rings: the return of the king
+the princess bride
+END QUEUE
+BEGIN RATINGS
+4 city lights
+4 battlefield earth
+4 the shawshank redemption
+END RATINGS
+END
+BEGIN hotdog8872
+NAME: KIM
+MOVIE: city lights
+BEGIN QUEUE
+city lights
+END QUEUE
+BEGIN RATINGS
+1 city lights
+1 battlefield earth
+1 the shawshank redemption
+1 the princess bride
+1 the lord of the rings: the return of the king
+END RATINGS
+END
+BEGIN rlaxorua
+NAME: xorua434
+MOVIE: the princess bride
+BEGIN QUEUE
+END QUEUE
+BEGIN RATINGS
+2 the princess bride
+2 the shawshank redemption
+2 city lights
+END RATINGS
+END
+BEGIN sallert
+NAME: taegyum
+MOVIE: the shawshank redemption
+BEGIN QUEUE
+the lord of the rings: the return of the king
+the lord of the rings: the return of the king
+battlefield earth
+battlefield earth
+END QUEUE
+BEGIN RATINGS
+5 the shawshank redemption
+5 city lights
+5 the princess bride
+END RATINGS
+END

@@ -1,0 +1,37 @@
+BEGIN the princess bride
+KEYWORD: comedy
+KEYWORD: Inigo Montoya
+KEYWORD: Robin Wright
+ACTOR: A
+ACTOR: B
+ACTOR: E
+END
+BEGIN city lights
+KEYWORD: comedy
+KEYWORD: romance
+KEYWORD: Charlie Chaplin
+KEYWORD: social criticism
+ACTOR: B
+ACTOR: D
+END
+BEGIN battlefield earth
+KEYWORD: SF
+KEYWORD: romance
+KEYWORD: social criticism
+ACTOR: A
+ACTOR: C
+END
+BEGIN the shawshank redemption
+KEYWORD: drama
+KEYWORD: comedy
+ACTOR: B
+ACTOR: C
+ACTOR: D
+END
+BEGIN the lord of the rings: the return of the king
+KEYWORD: drama
+KEYWORD: Robin Wright
+KEYWORD: comedy
+ACTOR: A
+ACTOR: E
+END
